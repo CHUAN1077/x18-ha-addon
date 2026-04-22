@@ -1,0 +1,9 @@
+{
+  "name": "X18 PRO Bridge",
+  "version": "4.0",
+  "slug": "x18_bridge",
+  "startup": "services",
+  "boot": "auto",
+  "host_network": true,
+  "arch": ["armv7","aarch64","amd64"]
+}
