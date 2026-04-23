@@ -1,7 +1,8 @@
 {
   "name": "X18 PRO Bridge",
-  "version": "4.0",
+  "version": "1.0",
   "slug": "x18_bridge",
+  "description": "Bridge OSC para X18",
   "startup": "services",
   "boot": "auto",
   "host_network": true,
